@@ -1,0 +1,1238 @@
+[
+  {
+    "hu": "Szia!",
+    "en": "Hello!",
+    "vi": "Xin chào!",
+    "cat": "Alapok"
+  },
+  {
+    "hu": "Jó reggelt!",
+    "en": "Good morning!",
+    "vi": "Chào buổi sáng!",
+    "cat": "Alapok"
+  },
+  {
+    "hu": "Jó estét!",
+    "en": "Good evening!",
+    "vi": "Chào buổi tối!",
+    "cat": "Alapok"
+  },
+  {
+    "hu": "Viszontlátásra!",
+    "en": "Goodbye!",
+    "vi": "Tạm biệt!",
+    "cat": "Alapok"
+  },
+  {
+    "hu": "Kérem.",
+    "en": "Please.",
+    "vi": "Làm ơn.",
+    "cat": "Udvariasság"
+  },
+  {
+    "hu": "Köszönöm.",
+    "en": "Thank you.",
+    "vi": "Cảm ơn.",
+    "cat": "Udvariasság"
+  },
+  {
+    "hu": "Elnézést.",
+    "en": "Excuse me.",
+    "vi": "Xin lỗi.",
+    "cat": "Udvariasság"
+  },
+  {
+    "hu": "Igen.",
+    "en": "Yes.",
+    "vi": "Vâng.",
+    "cat": "Alapok"
+  },
+  {
+    "hu": "Nem.",
+    "en": "No.",
+    "vi": "Không.",
+    "cat": "Alapok"
+  },
+  {
+    "hu": "Nem értem.",
+    "en": "I don't understand.",
+    "vi": "Tôi không hiểu.",
+    "cat": "Kommunikáció"
+  },
+  {
+    "hu": "Beszél angolul?",
+    "en": "Do you speak English?",
+    "vi": "Bạn có nói tiếng Anh không?",
+    "cat": "Kommunikáció"
+  },
+  {
+    "hu": "Beszéljen lassabban, kérem.",
+    "en": "Please speak more slowly.",
+    "vi": "Xin hãy nói chậm hơn.",
+    "cat": "Kommunikáció"
+  },
+  {
+    "hu": "Hol van a mosdó?",
+    "en": "Where is the bathroom?",
+    "vi": "Nhà vệ sinh ở đâu?",
+    "cat": "Utazás"
+  },
+  {
+    "hu": "Mennyibe kerül?",
+    "en": "How much is it?",
+    "vi": "Cái này giá bao nhiêu?",
+    "cat": "Vásárlás"
+  },
+  {
+    "hu": "Vizet kérek.",
+    "en": "I'd like some water.",
+    "vi": "Cho tôi nước.",
+    "cat": "Étterem"
+  },
+  {
+    "hu": "Egy kávét kérek.",
+    "en": "I'd like a coffee.",
+    "vi": "Cho tôi một cà phê.",
+    "cat": "Étterem"
+  },
+  {
+    "hu": "A számlát kérem.",
+    "en": "The bill, please.",
+    "vi": "Cho tôi xin hóa đơn.",
+    "cat": "Étterem"
+  },
+  {
+    "hu": "Segítség!",
+    "en": "Help!",
+    "vi": "Cứu tôi với!",
+    "cat": "Vészhelyzet"
+  },
+  {
+    "hu": "Hol van a szálloda?",
+    "en": "Where is the hotel?",
+    "vi": "Khách sạn ở đâu?",
+    "cat": "Utazás"
+  },
+  {
+    "hu": "Egy jegyet kérek.",
+    "en": "One ticket, please.",
+    "vi": "Cho tôi một vé.",
+    "cat": "Közlekedés"
+  },
+  {
+    "hu": "Nem beszélek vietnámiul.",
+    "en": "I don't speak Vietnamese.",
+    "vi": "Tôi không nói tiếng Việt.",
+    "cat": "Kommunikáció"
+  },
+  {
+    "hu": "én vagyok",
+    "en": "I am",
+    "vi": "Tôi là",
+    "cat": "Alapnyelvtan"
+  },
+  {
+    "hu": "te vagy",
+    "en": "You are",
+    "vi": "Bạn là",
+    "cat": "Alapnyelvtan"
+  },
+  {
+    "hu": "ő (férfi) van/ő az",
+    "en": "He is",
+    "vi": "Anh ấy là",
+    "cat": "Alapnyelvtan"
+  },
+  {
+    "hu": "ő (nő) van/ő az",
+    "en": "She is",
+    "vi": "Cô ấy là",
+    "cat": "Alapnyelvtan"
+  },
+  {
+    "hu": "mi vagyunk",
+    "en": "We are",
+    "vi": "Chúng tôi là",
+    "cat": "Alapnyelvtan"
+  },
+  {
+    "hu": "ők vannak/ők azok",
+    "en": "They are",
+    "vi": "Họ là",
+    "cat": "Alapnyelvtan"
+  },
+  {
+    "hu": "engem / nekem",
+    "en": "Me",
+    "vi": "Tôi",
+    "cat": "Alapnyelvtan"
+  },
+  {
+    "hu": "téged / neked",
+    "en": "You",
+    "vi": "Bạn",
+    "cat": "Alapnyelvtan"
+  },
+  {
+    "hu": "őket / nekik",
+    "en": "Them",
+    "vi": "Họ",
+    "cat": "Alapnyelvtan"
+  },
+  {
+    "hu": "az én ...-m",
+    "en": "My",
+    "vi": "Của tôi",
+    "cat": "Alapnyelvtan"
+  },
+  {
+    "hu": "a te ...-d",
+    "en": "Your",
+    "vi": "Của bạn",
+    "cat": "Alapnyelvtan"
+  },
+  {
+    "hu": "az ő ...-ja/-je",
+    "en": "His / Her",
+    "vi": "Của anh ấy / cô ấy",
+    "cat": "Alapnyelvtan"
+  },
+  {
+    "hu": "a mi ...-nk",
+    "en": "Our",
+    "vi": "Của chúng tôi",
+    "cat": "Alapnyelvtan"
+  },
+  {
+    "hu": "az ő ...-juk",
+    "en": "Their",
+    "vi": "Của họ",
+    "cat": "Alapnyelvtan"
+  },
+  {
+    "hu": "hol?",
+    "en": "Where?",
+    "vi": "Ở đâu?",
+    "cat": "Kérdések"
+  },
+  {
+    "hu": "mikor?",
+    "en": "When?",
+    "vi": "Khi nào?",
+    "cat": "Kérdések"
+  },
+  {
+    "hu": "ki?",
+    "en": "Who?",
+    "vi": "Ai?",
+    "cat": "Kérdések"
+  },
+  {
+    "hu": "mi? / mit?",
+    "en": "What?",
+    "vi": "Cái gì?",
+    "cat": "Kérdések"
+  },
+  {
+    "hu": "miért?",
+    "en": "Why?",
+    "vi": "Tại sao?",
+    "cat": "Kérdések"
+  },
+  {
+    "hu": "melyik?",
+    "en": "Which?",
+    "vi": "Cái nào?",
+    "cat": "Kérdések"
+  },
+  {
+    "hu": "hogyan?",
+    "en": "How?",
+    "vi": "Như thế nào?",
+    "cat": "Kérdések"
+  },
+  {
+    "hu": "mennyi? / hány?",
+    "en": "How much / How many?",
+    "vi": "Bao nhiêu?",
+    "cat": "Kérdések"
+  },
+  {
+    "hu": "én akarok",
+    "en": "I want",
+    "vi": "Tôi muốn",
+    "cat": "Igék"
+  },
+  {
+    "hu": "szükségem van valamire",
+    "en": "I need",
+    "vi": "Tôi cần",
+    "cat": "Igék"
+  },
+  {
+    "hu": "tudok / képes vagyok",
+    "en": "I can",
+    "vi": "Tôi có thể",
+    "cat": "Igék"
+  },
+  {
+    "hu": "kellene",
+    "en": "Should",
+    "vi": "Nên",
+    "cat": "Igék"
+  },
+  {
+    "hu": "szeretnék",
+    "en": "I would like",
+    "vi": "Tôi muốn",
+    "cat": "Igék"
+  },
+  {
+    "hu": "szeretem / kedvelem",
+    "en": "I like",
+    "vi": "Tôi thích",
+    "cat": "Igék"
+  },
+  {
+    "hu": "lenni",
+    "en": "to be",
+    "vi": "là / ở",
+    "cat": "Igék"
+  },
+  {
+    "hu": "birtokolni / van neki",
+    "en": "to have",
+    "vi": "có",
+    "cat": "Igék"
+  },
+  {
+    "hu": "csinálni",
+    "en": "to do / make",
+    "vi": "làm",
+    "cat": "Igék"
+  },
+  {
+    "hu": "menni",
+    "en": "to go",
+    "vi": "đi",
+    "cat": "Igék"
+  },
+  {
+    "hu": "jönni",
+    "en": "to come",
+    "vi": "đến",
+    "cat": "Igék"
+  },
+  {
+    "hu": "mondani",
+    "en": "to say",
+    "vi": "nói",
+    "cat": "Igék"
+  },
+  {
+    "hu": "beszélni",
+    "en": "to speak",
+    "vi": "nói",
+    "cat": "Igék"
+  },
+  {
+    "hu": "kérdezni",
+    "en": "to ask",
+    "vi": "hỏi",
+    "cat": "Igék"
+  },
+  {
+    "hu": "válaszolni",
+    "en": "to answer",
+    "vi": "trả lời",
+    "cat": "Igék"
+  },
+  {
+    "hu": "tudni / ismerni",
+    "en": "to know",
+    "vi": "biết",
+    "cat": "Igék"
+  },
+  {
+    "hu": "gondolni",
+    "en": "to think",
+    "vi": "nghĩ",
+    "cat": "Igék"
+  },
+  {
+    "hu": "látni",
+    "en": "to see",
+    "vi": "nhìn thấy",
+    "cat": "Igék"
+  },
+  {
+    "hu": "hallani",
+    "en": "to hear",
+    "vi": "nghe",
+    "cat": "Igék"
+  },
+  {
+    "hu": "enni",
+    "en": "to eat",
+    "vi": "ăn",
+    "cat": "Igék"
+  },
+  {
+    "hu": "inni",
+    "en": "to drink",
+    "vi": "uống",
+    "cat": "Igék"
+  },
+  {
+    "hu": "aludni",
+    "en": "to sleep",
+    "vi": "ngủ",
+    "cat": "Igék"
+  },
+  {
+    "hu": "venni / vásárolni",
+    "en": "to buy",
+    "vi": "mua",
+    "cat": "Igék"
+  },
+  {
+    "hu": "fizetni",
+    "en": "to pay",
+    "vi": "trả tiền",
+    "cat": "Igék"
+  },
+  {
+    "hu": "adni",
+    "en": "to give",
+    "vi": "cho",
+    "cat": "Igék"
+  },
+  {
+    "hu": "kapni",
+    "en": "to receive",
+    "vi": "nhận",
+    "cat": "Igék"
+  },
+  {
+    "hu": "keresni",
+    "en": "to look for",
+    "vi": "tìm",
+    "cat": "Igék"
+  },
+  {
+    "hu": "találni",
+    "en": "to find",
+    "vi": "tìm thấy",
+    "cat": "Igék"
+  },
+  {
+    "hu": "segíteni",
+    "en": "to help",
+    "vi": "giúp",
+    "cat": "Igék"
+  },
+  {
+    "hu": "várni",
+    "en": "to wait",
+    "vi": "đợi",
+    "cat": "Igék"
+  },
+  {
+    "hu": "dolgozni",
+    "en": "to work",
+    "vi": "làm việc",
+    "cat": "Igék"
+  },
+  {
+    "hu": "élni / lakni",
+    "en": "to live",
+    "vi": "sống",
+    "cat": "Igék"
+  },
+  {
+    "hu": "utazni",
+    "en": "to travel",
+    "vi": "du lịch",
+    "cat": "Igék"
+  },
+  {
+    "hu": "megérkezni",
+    "en": "to arrive",
+    "vi": "đến nơi",
+    "cat": "Igék"
+  },
+  {
+    "hu": "indulni / elmenni",
+    "en": "to leave",
+    "vi": "rời đi",
+    "cat": "Igék"
+  },
+  {
+    "hu": "nyitni",
+    "en": "to open",
+    "vi": "mở",
+    "cat": "Igék"
+  },
+  {
+    "hu": "bezárni",
+    "en": "to close",
+    "vi": "đóng",
+    "cat": "Igék"
+  },
+  {
+    "hu": "kezdeni",
+    "en": "to start",
+    "vi": "bắt đầu",
+    "cat": "Igék"
+  },
+  {
+    "hu": "befejezni",
+    "en": "to finish",
+    "vi": "kết thúc",
+    "cat": "Igék"
+  },
+  {
+    "hu": "érteni",
+    "en": "to understand",
+    "vi": "hiểu",
+    "cat": "Igék"
+  },
+  {
+    "hu": "tanulni",
+    "en": "to learn",
+    "vi": "học",
+    "cat": "Igék"
+  },
+  {
+    "hu": "emlékezni",
+    "en": "to remember",
+    "vi": "nhớ",
+    "cat": "Igék"
+  },
+  {
+    "hu": "elfelejteni",
+    "en": "to forget",
+    "vi": "quên",
+    "cat": "Igék"
+  },
+  {
+    "hu": "jó",
+    "en": "good",
+    "vi": "tốt",
+    "cat": "Melléknevek"
+  },
+  {
+    "hu": "rossz",
+    "en": "bad",
+    "vi": "tệ",
+    "cat": "Melléknevek"
+  },
+  {
+    "hu": "nagy",
+    "en": "big",
+    "vi": "to / lớn",
+    "cat": "Melléknevek"
+  },
+  {
+    "hu": "kicsi",
+    "en": "small",
+    "vi": "nhỏ",
+    "cat": "Melléknevek"
+  },
+  {
+    "hu": "szép",
+    "en": "beautiful",
+    "vi": "đẹp",
+    "cat": "Melléknevek"
+  },
+  {
+    "hu": "drága",
+    "en": "expensive",
+    "vi": "đắt",
+    "cat": "Melléknevek"
+  },
+  {
+    "hu": "olcsó",
+    "en": "cheap",
+    "vi": "rẻ",
+    "cat": "Melléknevek"
+  },
+  {
+    "hu": "gyors",
+    "en": "fast",
+    "vi": "nhanh",
+    "cat": "Melléknevek"
+  },
+  {
+    "hu": "lassú",
+    "en": "slow",
+    "vi": "chậm",
+    "cat": "Melléknevek"
+  },
+  {
+    "hu": "meleg",
+    "en": "hot / warm",
+    "vi": "nóng / ấm",
+    "cat": "Melléknevek"
+  },
+  {
+    "hu": "hideg",
+    "en": "cold",
+    "vi": "lạnh",
+    "cat": "Melléknevek"
+  },
+  {
+    "hu": "könnyű",
+    "en": "easy / light",
+    "vi": "dễ / nhẹ",
+    "cat": "Melléknevek"
+  },
+  {
+    "hu": "nehéz",
+    "en": "difficult / heavy",
+    "vi": "khó / nặng",
+    "cat": "Melléknevek"
+  },
+  {
+    "hu": "jobb",
+    "en": "better",
+    "vi": "tốt hơn",
+    "cat": "Melléknevek"
+  },
+  {
+    "hu": "a legjobb",
+    "en": "the best",
+    "vi": "tốt nhất",
+    "cat": "Melléknevek"
+  },
+  {
+    "hu": "ember",
+    "en": "person",
+    "vi": "người",
+    "cat": "Főnevek"
+  },
+  {
+    "hu": "férfi",
+    "en": "man",
+    "vi": "đàn ông",
+    "cat": "Főnevek"
+  },
+  {
+    "hu": "nő",
+    "en": "woman",
+    "vi": "phụ nữ",
+    "cat": "Főnevek"
+  },
+  {
+    "hu": "gyerek",
+    "en": "child",
+    "vi": "trẻ em",
+    "cat": "Főnevek"
+  },
+  {
+    "hu": "barát",
+    "en": "friend",
+    "vi": "bạn",
+    "cat": "Főnevek"
+  },
+  {
+    "hu": "család",
+    "en": "family",
+    "vi": "gia đình",
+    "cat": "Főnevek"
+  },
+  {
+    "hu": "anya",
+    "en": "mother",
+    "vi": "mẹ",
+    "cat": "Főnevek"
+  },
+  {
+    "hu": "apa",
+    "en": "father",
+    "vi": "bố / ba",
+    "cat": "Főnevek"
+  },
+  {
+    "hu": "fiú",
+    "en": "boy",
+    "vi": "con trai",
+    "cat": "Főnevek"
+  },
+  {
+    "hu": "lány",
+    "en": "girl",
+    "vi": "con gái",
+    "cat": "Főnevek"
+  },
+  {
+    "hu": "víz",
+    "en": "water",
+    "vi": "nước",
+    "cat": "Ételek és italok"
+  },
+  {
+    "hu": "kenyér",
+    "en": "bread",
+    "vi": "bánh mì",
+    "cat": "Ételek és italok"
+  },
+  {
+    "hu": "rizs",
+    "en": "rice",
+    "vi": "cơm / gạo",
+    "cat": "Ételek és italok"
+  },
+  {
+    "hu": "hús",
+    "en": "meat",
+    "vi": "thịt",
+    "cat": "Ételek és italok"
+  },
+  {
+    "hu": "hal",
+    "en": "fish",
+    "vi": "cá",
+    "cat": "Ételek és italok"
+  },
+  {
+    "hu": "csirke",
+    "en": "chicken",
+    "vi": "thịt gà",
+    "cat": "Ételek és italok"
+  },
+  {
+    "hu": "kávé",
+    "en": "coffee",
+    "vi": "cà phê",
+    "cat": "Ételek és italok"
+  },
+  {
+    "hu": "tea",
+    "en": "tea",
+    "vi": "trà",
+    "cat": "Ételek és italok"
+  },
+  {
+    "hu": "gyümölcs",
+    "en": "fruit",
+    "vi": "trái cây",
+    "cat": "Ételek és italok"
+  },
+  {
+    "hu": "reggeli",
+    "en": "breakfast",
+    "vi": "bữa sáng",
+    "cat": "Ételek és italok"
+  },
+  {
+    "hu": "ebéd",
+    "en": "lunch",
+    "vi": "bữa trưa",
+    "cat": "Ételek és italok"
+  },
+  {
+    "hu": "vacsora",
+    "en": "dinner",
+    "vi": "bữa tối",
+    "cat": "Ételek és italok"
+  },
+  {
+    "hu": "repülőtér",
+    "en": "airport",
+    "vi": "sân bay",
+    "cat": "Utazás"
+  },
+  {
+    "hu": "repülőgép",
+    "en": "airplane",
+    "vi": "máy bay",
+    "cat": "Utazás"
+  },
+  {
+    "hu": "útlevél",
+    "en": "passport",
+    "vi": "hộ chiếu",
+    "cat": "Utazás"
+  },
+  {
+    "hu": "jegy",
+    "en": "ticket",
+    "vi": "vé",
+    "cat": "Utazás"
+  },
+  {
+    "hu": "bőrönd",
+    "en": "suitcase",
+    "vi": "va-li",
+    "cat": "Utazás"
+  },
+  {
+    "hu": "szálloda",
+    "en": "hotel",
+    "vi": "khách sạn",
+    "cat": "Utazás"
+  },
+  {
+    "hu": "szoba",
+    "en": "room",
+    "vi": "phòng",
+    "cat": "Utazás"
+  },
+  {
+    "hu": "kulcs",
+    "en": "key",
+    "vi": "chìa khóa",
+    "cat": "Utazás"
+  },
+  {
+    "hu": "állomás",
+    "en": "station",
+    "vi": "nhà ga",
+    "cat": "Közlekedés"
+  },
+  {
+    "hu": "busz",
+    "en": "bus",
+    "vi": "xe buýt",
+    "cat": "Közlekedés"
+  },
+  {
+    "hu": "vonat",
+    "en": "train",
+    "vi": "tàu hỏa",
+    "cat": "Közlekedés"
+  },
+  {
+    "hu": "taxi",
+    "en": "taxi",
+    "vi": "taxi",
+    "cat": "Közlekedés"
+  },
+  {
+    "hu": "autó",
+    "en": "car",
+    "vi": "ô tô",
+    "cat": "Közlekedés"
+  },
+  {
+    "hu": "utca",
+    "en": "street",
+    "vi": "đường phố",
+    "cat": "Helyek"
+  },
+  {
+    "hu": "város",
+    "en": "city",
+    "vi": "thành phố",
+    "cat": "Helyek"
+  },
+  {
+    "hu": "ország",
+    "en": "country",
+    "vi": "đất nước",
+    "cat": "Helyek"
+  },
+  {
+    "hu": "étterem",
+    "en": "restaurant",
+    "vi": "nhà hàng",
+    "cat": "Helyek"
+  },
+  {
+    "hu": "bolt",
+    "en": "shop",
+    "vi": "cửa hàng",
+    "cat": "Helyek"
+  },
+  {
+    "hu": "kórház",
+    "en": "hospital",
+    "vi": "bệnh viện",
+    "cat": "Helyek"
+  },
+  {
+    "hu": "mosdó",
+    "en": "restroom",
+    "vi": "nhà vệ sinh",
+    "cat": "Helyek"
+  },
+  {
+    "hu": "pénz",
+    "en": "money",
+    "vi": "tiền",
+    "cat": "Mindennapok"
+  },
+  {
+    "hu": "telefon",
+    "en": "phone",
+    "vi": "điện thoại",
+    "cat": "Mindennapok"
+  },
+  {
+    "hu": "táska",
+    "en": "bag",
+    "vi": "túi",
+    "cat": "Mindennapok"
+  },
+  {
+    "hu": "asztal",
+    "en": "table",
+    "vi": "bàn",
+    "cat": "Mindennapok"
+  },
+  {
+    "hu": "szék",
+    "en": "chair",
+    "vi": "ghế",
+    "cat": "Mindennapok"
+  },
+  {
+    "hu": "nap",
+    "en": "day / sun",
+    "vi": "ngày / mặt trời",
+    "cat": "Idő"
+  },
+  {
+    "hu": "hét",
+    "en": "week",
+    "vi": "tuần",
+    "cat": "Idő"
+  },
+  {
+    "hu": "hónap",
+    "en": "month",
+    "vi": "tháng",
+    "cat": "Idő"
+  },
+  {
+    "hu": "év",
+    "en": "year",
+    "vi": "năm",
+    "cat": "Idő"
+  },
+  {
+    "hu": "óra",
+    "en": "hour / clock",
+    "vi": "giờ / đồng hồ",
+    "cat": "Idő"
+  },
+  {
+    "hu": "ma",
+    "en": "today",
+    "vi": "hôm nay",
+    "cat": "Idő"
+  },
+  {
+    "hu": "holnap",
+    "en": "tomorrow",
+    "vi": "ngày mai",
+    "cat": "Idő"
+  },
+  {
+    "hu": "tegnap",
+    "en": "yesterday",
+    "vi": "hôm qua",
+    "cat": "Idő"
+  },
+  {
+    "hu": "most",
+    "en": "now",
+    "vi": "bây giờ",
+    "cat": "Idő"
+  },
+  {
+    "hu": "mindig",
+    "en": "always",
+    "vi": "luôn luôn",
+    "cat": "Idő"
+  },
+  {
+    "hu": "gyakran",
+    "en": "often",
+    "vi": "thường xuyên",
+    "cat": "Idő"
+  },
+  {
+    "hu": "ritkán",
+    "en": "rarely",
+    "vi": "hiếm khi",
+    "cat": "Idő"
+  },
+  {
+    "hu": "piros",
+    "en": "red",
+    "vi": "đỏ",
+    "cat": "Színek"
+  },
+  {
+    "hu": "kék",
+    "en": "blue",
+    "vi": "xanh dương",
+    "cat": "Színek"
+  },
+  {
+    "hu": "zöld",
+    "en": "green",
+    "vi": "xanh lá",
+    "cat": "Színek"
+  },
+  {
+    "hu": "fehér",
+    "en": "white",
+    "vi": "trắng",
+    "cat": "Színek"
+  },
+  {
+    "hu": "fekete",
+    "en": "black",
+    "vi": "đen",
+    "cat": "Színek"
+  },
+  {
+    "hu": "fej",
+    "en": "head",
+    "vi": "đầu",
+    "cat": "Testrészek"
+  },
+  {
+    "hu": "kéz",
+    "en": "hand",
+    "vi": "tay",
+    "cat": "Testrészek"
+  },
+  {
+    "hu": "láb",
+    "en": "leg / foot",
+    "vi": "chân",
+    "cat": "Testrészek"
+  },
+  {
+    "hu": "szem",
+    "en": "eye",
+    "vi": "mắt",
+    "cat": "Testrészek"
+  },
+  {
+    "hu": "száj",
+    "en": "mouth",
+    "vi": "miệng",
+    "cat": "Testrészek"
+  },
+  {
+    "hu": "szív",
+    "en": "heart",
+    "vi": "tim",
+    "cat": "Testrészek"
+  },
+  {
+    "hu": "macska",
+    "en": "cat",
+    "vi": "mèo",
+    "cat": "Állatok"
+  },
+  {
+    "hu": "kutya",
+    "en": "dog",
+    "vi": "chó",
+    "cat": "Állatok"
+  },
+  {
+    "hu": "egy macska",
+    "en": "one cat",
+    "vi": "một con mèo",
+    "cat": "Mennyiség"
+  },
+  {
+    "hu": "két macska",
+    "en": "two cats",
+    "vi": "hai con mèo",
+    "cat": "Mennyiség"
+  },
+  {
+    "hu": "és",
+    "en": "and",
+    "vi": "và",
+    "cat": "Kötőszavak"
+  },
+  {
+    "hu": "de",
+    "en": "but",
+    "vi": "nhưng",
+    "cat": "Kötőszavak"
+  },
+  {
+    "hu": "vagy",
+    "en": "or",
+    "vi": "hoặc",
+    "cat": "Kötőszavak"
+  },
+  {
+    "hu": "mert",
+    "en": "because",
+    "vi": "bởi vì",
+    "cat": "Kötőszavak"
+  },
+  {
+    "hu": "is / szintén",
+    "en": "also / too",
+    "vi": "cũng",
+    "cat": "Gyakori szavak"
+  },
+  {
+    "hu": "nagyon",
+    "en": "very",
+    "vi": "rất",
+    "cat": "Gyakori szavak"
+  },
+  {
+    "hu": "csak",
+    "en": "only / just",
+    "vi": "chỉ",
+    "cat": "Gyakori szavak"
+  },
+  {
+    "hu": "sok",
+    "en": "a lot / many",
+    "vi": "nhiều",
+    "cat": "Gyakori szavak"
+  },
+  {
+    "hu": "kevés",
+    "en": "a little / few",
+    "vi": "ít",
+    "cat": "Gyakori szavak"
+  },
+  {
+    "hu": "már",
+    "en": "already",
+    "vi": "đã",
+    "cat": "Gyakori szavak"
+  },
+  {
+    "hu": "még nem",
+    "en": "not yet",
+    "vi": "chưa",
+    "cat": "Gyakori szavak"
+  },
+  {
+    "hu": "talán",
+    "en": "maybe",
+    "vi": "có lẽ",
+    "cat": "Gyakori szavak"
+  },
+  {
+    "hu": "itt",
+    "en": "here",
+    "vi": "ở đây",
+    "cat": "Helyhatározók"
+  },
+  {
+    "hu": "ott",
+    "en": "there",
+    "vi": "ở đó",
+    "cat": "Helyhatározók"
+  },
+  {
+    "hu": "bent / -ban",
+    "en": "in / inside",
+    "vi": "trong",
+    "cat": "Helyhatározók"
+  },
+  {
+    "hu": "rajta / -on",
+    "en": "on",
+    "vi": "trên",
+    "cat": "Helyhatározók"
+  },
+  {
+    "hu": "innen / -tól",
+    "en": "from",
+    "vi": "từ",
+    "cat": "Helyhatározók"
+  },
+  {
+    "hu": "-hoz / -hez / -höz",
+    "en": "to",
+    "vi": "đến",
+    "cat": "Helyhatározók"
+  },
+  {
+    "hu": "Hol találom ...?",
+    "en": "Where can I find ...?",
+    "vi": "Tôi có thể tìm ... ở đâu?",
+    "cat": "Mondatminták"
+  },
+  {
+    "hu": "Szeretnék ...",
+    "en": "I would like ...",
+    "vi": "Tôi muốn ...",
+    "cat": "Mondatminták"
+  },
+  {
+    "hu": "Segítene nekem?",
+    "en": "Could you help me?",
+    "vi": "Bạn có thể giúp tôi không?",
+    "cat": "Mondatminták"
+  },
+  {
+    "hu": "Nem tudom.",
+    "en": "I don't know.",
+    "vi": "Tôi không biết.",
+    "cat": "Mondatminták"
+  },
+  {
+    "hu": "Most tanulok.",
+    "en": "I am learning now.",
+    "vi": "Bây giờ tôi đang học.",
+    "cat": "Igeidők"
+  },
+  {
+    "hu": "Minden nap tanulok.",
+    "en": "I study every day.",
+    "vi": "Tôi học mỗi ngày.",
+    "cat": "Igeidők"
+  },
+  {
+    "hu": "Tegnap tanultam.",
+    "en": "I studied yesterday.",
+    "vi": "Hôm qua tôi đã học.",
+    "cat": "Igeidők"
+  },
+  {
+    "hu": "Holnap tanulni fogok.",
+    "en": "I will study tomorrow.",
+    "vi": "Ngày mai tôi sẽ học.",
+    "cat": "Igeidők"
+  },
+  {
+    "hu": "egyenesen",
+    "en": "straight ahead",
+    "vi": "thẳng",
+    "cat": "Irányok"
+  },
+  {
+    "hu": "balra",
+    "en": "left",
+    "vi": "bên trái",
+    "cat": "Irányok"
+  },
+  {
+    "hu": "jobbra",
+    "en": "right",
+    "vi": "bên phải",
+    "cat": "Irányok"
+  },
+  {
+    "hu": "közel",
+    "en": "near",
+    "vi": "gần",
+    "cat": "Irányok"
+  },
+  {
+    "hu": "messze",
+    "en": "far",
+    "vi": "xa",
+    "cat": "Irányok"
+  }
+]
