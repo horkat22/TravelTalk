@@ -1234,5 +1234,203 @@
     "en": "far",
     "vi": "xa",
     "cat": "Irányok"
+  },
+  {
+    "hu": "sárga",
+    "en": "yellow",
+    "vi": "vàng",
+    "cat": "Színek"
+  },
+  {
+    "hu": "narancssárga",
+    "en": "orange",
+    "vi": "cam",
+    "cat": "Színek"
+  },
+  {
+    "hu": "lila",
+    "en": "purple",
+    "vi": "tím",
+    "cat": "Színek"
+  },
+  {
+    "hu": "barna",
+    "en": "brown",
+    "vi": "nâu",
+    "cat": "Színek"
+  },
+  {
+    "hu": "szürke",
+    "en": "gray / grey",
+    "vi": "xám",
+    "cat": "Színek"
+  },
+  {
+    "hu": "rózsaszín",
+    "en": "pink",
+    "vi": "hồng",
+    "cat": "Színek"
+  },
+  {
+    "hu": "egy (1)",
+    "en": "one",
+    "vi": "một",
+    "cat": "Számok"
+  },
+  {
+    "hu": "kettő (2)",
+    "en": "two",
+    "vi": "hai",
+    "cat": "Számok"
+  },
+  {
+    "hu": "három (3)",
+    "en": "three",
+    "vi": "ba",
+    "cat": "Számok"
+  },
+  {
+    "hu": "négy (4)",
+    "en": "four",
+    "vi": "bốn",
+    "cat": "Számok"
+  },
+  {
+    "hu": "öt (5)",
+    "en": "five",
+    "vi": "năm",
+    "cat": "Számok"
+  },
+  {
+    "hu": "hat (6)",
+    "en": "six",
+    "vi": "sáu",
+    "cat": "Számok"
+  },
+  {
+    "hu": "hét (7)",
+    "en": "seven",
+    "vi": "bảy",
+    "cat": "Számok"
+  },
+  {
+    "hu": "nyolc (8)",
+    "en": "eight",
+    "vi": "tám",
+    "cat": "Számok"
+  },
+  {
+    "hu": "kilenc (9)",
+    "en": "nine",
+    "vi": "chín",
+    "cat": "Számok"
+  },
+  {
+    "hu": "tíz (10)",
+    "en": "ten",
+    "vi": "mười",
+    "cat": "Számok"
+  },
+  {
+    "hu": "tizenegy (11)",
+    "en": "eleven",
+    "vi": "mười một",
+    "cat": "Számok"
+  },
+  {
+    "hu": "tizenkettő (12)",
+    "en": "twelve",
+    "vi": "mười hai",
+    "cat": "Számok"
+  },
+  {
+    "hu": "húsz (20)",
+    "en": "twenty",
+    "vi": "hai mươi",
+    "cat": "Számok"
+  },
+  {
+    "hu": "harminc (30)",
+    "en": "thirty",
+    "vi": "ba mươi",
+    "cat": "Számok"
+  },
+  {
+    "hu": "negyven (40)",
+    "en": "forty",
+    "vi": "bốn mươi",
+    "cat": "Számok"
+  },
+  {
+    "hu": "ötven (50)",
+    "en": "fifty",
+    "vi": "năm mươi",
+    "cat": "Számok"
+  },
+  {
+    "hu": "hatvan (60)",
+    "en": "sixty",
+    "vi": "sáu mươi",
+    "cat": "Számok"
+  },
+  {
+    "hu": "hetven (70)",
+    "en": "seventy",
+    "vi": "bảy mươi",
+    "cat": "Számok"
+  },
+  {
+    "hu": "nyolcvan (80)",
+    "en": "eighty",
+    "vi": "tám mươi",
+    "cat": "Számok"
+  },
+  {
+    "hu": "kilencven (90)",
+    "en": "ninety",
+    "vi": "chín mươi",
+    "cat": "Számok"
+  },
+  {
+    "hu": "száz (100)",
+    "en": "one hundred",
+    "vi": "một trăm",
+    "cat": "Számok"
+  },
+  {
+    "hu": "ezer (1000)",
+    "en": "one thousand",
+    "vi": "một nghìn / một ngàn",
+    "cat": "Számok"
+  },
+  {
+    "hu": "huszonegy (21)",
+    "en": "twenty-one",
+    "vi": "hai mươi mốt",
+    "cat": "Számok"
+  },
+  {
+    "hu": "huszonkettő (22)",
+    "en": "twenty-two",
+    "vi": "hai mươi hai",
+    "cat": "Számok"
+  },
+  {
+    "hu": "kétszázhuszonkettő (222)",
+    "en": "two hundred twenty-two",
+    "vi": "hai trăm hai mươi hai",
+    "cat": "Számok"
+  },
+  {
+    "hu": "háromezer-háromszázharminchárom (3333)",
+    "en": "three thousand three hundred thirty-three",
+    "vi": "ba nghìn ba trăm ba mươi ba",
+    "cat": "Számok"
+  },
+  {
+    "hu": "kétmillió-kétszázhuszonkétezer-kétszázhuszonkettő (2222222)",
+    "en": "two million two hundred twenty-two thousand two hundred twenty-two",
+    "vi": "hai triệu hai trăm hai mươi hai nghìn hai trăm hai mươi hai",
+    "cat": "Számok"
   }
 ]
